@@ -12,7 +12,8 @@ Saved
 *.suo
 *.xcodeproj
 *.xcworkspace
-/Characters
-/LevelPrototyping
-/StarterContent
-/Temp Content
+/Characters/
+/LevelPrototyping/
+/StarterContent/
+/Temp Content/
+/Config/
